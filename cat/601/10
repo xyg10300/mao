@@ -1,5 +1,5 @@
 {
-"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
+"spider": "https://raw.githubusercontents.com/xyg10300/mao/main/jar/sprider0601.txt",
 
 "sites": [
 {"key": "csp_77"         ,"name":"酷云七七〔P〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -10,13 +10,13 @@
 {"key": "csp_LiteApple"  ,"name":"苹果影视〔P〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Auete"      ,"name":"Auete〔P〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Cokemv"     ,"name":"Cokemv〔P〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_libv","name":"LIBVIO（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/libv.json"},
-{"key":"csp_xpath_zxzj2","name":"在线之家（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/zxzj2.json"},
-{"key":"csp_biubiu_真不卡zhenbuka3","name":"真不卡1(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/真不卡zhenbuka3(ns).json"},
-{"key":"csp_biubiu_真不卡cerrd","name":"真不卡2(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/真不卡cerrd(ns).json"},
-{"key":"csp_biubiu_奇优影院ns","name":"奇优影院(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/奇优影院(ns).json"},  
-{"key":"csp_biubiu_黑狐影视ns","name":"黑狐影视(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/黑狐影视(ns).json"},  
-{"key":"csp_biubiu_GAOAA","name":"GAOAA（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA.json"},
+{"key":"csp_xpath_libv","name":"LIBVIO（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xyg10300/mao/main/sub/xpath/libv.json"},
+{"key":"csp_xpath_zxzj2","name":"在线之家（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xyg10300/mao/main/sub/xpath/zxzj2.json"},
+{"key":"csp_biubiu_真不卡zhenbuka3","name":"真不卡1(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xyg10300/mao/main/sub/biubiu/真不卡zhenbuka3(ns).json"},
+{"key":"csp_biubiu_真不卡cerrd","name":"真不卡2(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xyg10300/mao/main/sub/biubiu/真不卡cerrd(ns).json"},
+{"key":"csp_biubiu_奇优影院ns","name":"奇优影院(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xyg10300/mao/main/sub/biubiu/奇优影院(ns).json"},  
+{"key":"csp_biubiu_黑狐影视ns","name":"黑狐影视(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xyg10300/mao/main/sub/biubiu/黑狐影视(ns).json"},  
+{"key":"csp_biubiu_GAOAA","name":"GAOAA（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xyg10300/mao/main/sub/bb/GAOAA.json"},
     //
 {"key":"🔞523资源","name":"🔞523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"🔞丝袜资源","name":"🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
